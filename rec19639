@@ -1,0 +1,28 @@
+Linnane_assignment2/:
+total 8
+drwxr-xr-x 2 ugrad 4096 Mar  9 17:07 CircularLinkedList
+drwxr-xr-x 2 ugrad 4096 Mar  9 17:08 DoublyLinkedList
+-rw-r--r-- 1 ugrad    0 Mar  9 17:36 rec19639
+
+Linnane_assignment2/CircularLinkedList:
+total 32
+-rw-r--r-- 1 ugrad 2954 Mar  9 17:28 CircularLinkedList.cpp
+-rw-r--r-- 1 ugrad  399 Mar  5 20:44 CircularLinkedList.h
+-rw-r--r-- 1 ugrad   29 Mar  5 20:23 input.txt
+-rw-r--r-- 1 ugrad  288 Mar  5 20:42 ItemType.cpp
+-rw-r--r-- 1 ugrad  145 Mar  5 17:26 ItemType.h
+-rw-r--r-- 1 ugrad 2967 Mar  5 18:29 Main.cpp
+-rw-r--r-- 1 ugrad  437 Mar  5 17:53 Makefile
+-rw-r--r-- 1 ugrad  249 Mar  9 17:07 ReadMe.txt
+
+Linnane_assignment2/DoublyLinkedList:
+total 32
+-rw-r--r-- 1 ugrad 3215 Mar  9 16:58 DoublyLinkedList.cpp
+-rw-r--r-- 1 ugrad  411 Mar  8 17:08 DoublyLinkedList.h
+-rw-r--r-- 1 ugrad   29 Mar  8 16:52 input.txt
+-rw-r--r-- 1 ugrad  288 Mar  8 17:49 ItemType.cpp
+-rw-r--r-- 1 ugrad  145 Mar  8 16:52 ItemType.h
+-rw-r--r-- 1 ugrad 2969 Mar  9 01:24 Main.cpp
+-rw-r--r-- 1 ugrad  427 Mar  8 17:47 Makefile
+-rw-r--r-- 1 ugrad  245 Mar  9 17:07 ReadMe.txt
+/home/ugrads/klinnane/cs2720b/Linnane_assignment2/:/home/work/cs2720b
